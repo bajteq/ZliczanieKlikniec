@@ -1,2 +1,2 @@
 # ZliczanieKlikniec
-peirwsza apka z aplikacji moblinych w medycynie
+1st app
